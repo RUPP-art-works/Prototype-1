@@ -1,0 +1,48 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get very large
+/[Mm]emoryCaptures/
+
+# Recorded songs can be large
+/[Rr]ecordings/
+
+# Asset Import Settings (can be regenerated)
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# VS Code and Rider
+.vscode/
+.idea/
+
+# Visual Studio / MSBuild
+[Aa]ssembly-CSharp.csproj
+[Aa]ssembly-CSharp-Editor.csproj
+[Aa]ssembly-CSharp-firstpass.csproj
+[Aa]ssembly-CSharp-Editor-firstpass.csproj
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity generated metadata
+*.unitypackage
+*.logging
+
+# OS generated files
+.DS_Store
+Thumbs.db
